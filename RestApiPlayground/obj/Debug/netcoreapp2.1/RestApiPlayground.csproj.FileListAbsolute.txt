@@ -1,0 +1,14 @@
+/Users/dan/Documents/hacking/RestApiPlayground/RestApiPlayground/bin/Debug/netcoreapp2.1/RestApiPlayground.deps.json
+/Users/dan/Documents/hacking/RestApiPlayground/RestApiPlayground/bin/Debug/netcoreapp2.1/RestApiPlayground.runtimeconfig.json
+/Users/dan/Documents/hacking/RestApiPlayground/RestApiPlayground/bin/Debug/netcoreapp2.1/RestApiPlayground.runtimeconfig.dev.json
+/Users/dan/Documents/hacking/RestApiPlayground/RestApiPlayground/bin/Debug/netcoreapp2.1/RestApiPlayground.dll
+/Users/dan/Documents/hacking/RestApiPlayground/RestApiPlayground/bin/Debug/netcoreapp2.1/RestApiPlayground.pdb
+/Users/dan/Documents/hacking/RestApiPlayground/RestApiPlayground/obj/Debug/netcoreapp2.1/RestApiPlayground.csprojAssemblyReference.cache
+/Users/dan/Documents/hacking/RestApiPlayground/RestApiPlayground/obj/Debug/netcoreapp2.1/RestApiPlayground.csproj.CoreCompileInputs.cache
+/Users/dan/Documents/hacking/RestApiPlayground/RestApiPlayground/obj/Debug/netcoreapp2.1/RestApiPlayground.RazorAssemblyInfo.cache
+/Users/dan/Documents/hacking/RestApiPlayground/RestApiPlayground/obj/Debug/netcoreapp2.1/RestApiPlayground.RazorAssemblyInfo.cs
+/Users/dan/Documents/hacking/RestApiPlayground/RestApiPlayground/obj/Debug/netcoreapp2.1/RestApiPlayground.AssemblyInfoInputs.cache
+/Users/dan/Documents/hacking/RestApiPlayground/RestApiPlayground/obj/Debug/netcoreapp2.1/RestApiPlayground.AssemblyInfo.cs
+/Users/dan/Documents/hacking/RestApiPlayground/RestApiPlayground/obj/Debug/netcoreapp2.1/RestApiPlayground.RazorTargetAssemblyInfo.cache
+/Users/dan/Documents/hacking/RestApiPlayground/RestApiPlayground/obj/Debug/netcoreapp2.1/RestApiPlayground.dll
+/Users/dan/Documents/hacking/RestApiPlayground/RestApiPlayground/obj/Debug/netcoreapp2.1/RestApiPlayground.pdb

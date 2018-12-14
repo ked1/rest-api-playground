@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{F6170AFD-1246-4BA6-9A89-84455042D131}|Default">
+  <MonoDevelop.Ide.ItemProperties.RestApiPlayground PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RestApiPlayground/Services/StudentsRepository.cs">
+    <Files>
+      <File FileName="RestApiPlayground/Controllers/StudentsController.cs" Line="14" Column="51" />
+      <File FileName="RestApiPlayground/Services/StudentsRepository.cs" Line="20" Column="1" />
+      <File FileName="RestApiPlayground/Services/IStudentRepository.cs" Line="3" Column="23" />
+      <File FileName="RestApiPlayground/Startup.cs" Line="31" Column="80" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
